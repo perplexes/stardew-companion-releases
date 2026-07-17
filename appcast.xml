@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>CompanionMac</title>
+        <item>
+            <title>0.1.2</title>
+            <pubDate>Thu, 16 Jul 2026 21:49:37 -0700</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac-0.1.2.zip" length="22743902" type="application/octet-stream" sparkle:edSignature="onVnN0eFCsT7/E+jGJUae/wwgrsIeuhz6SdyHWai3XHnkVGzia3M8b9rqGp61v5j4f600LpREEzRJJKgO+iMDw=="/>
+        </item>
+    </channel>
+</rss>
