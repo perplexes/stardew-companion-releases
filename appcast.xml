@@ -8,7 +8,7 @@
             <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac-0.1.2.zip" length="22743902" type="application/octet-stream" sparkle:edSignature="onVnN0eFCsT7/E+jGJUae/wwgrsIeuhz6SdyHWai3XHnkVGzia3M8b9rqGp61v5j4f600LpREEzRJJKgO+iMDw=="/>
+            <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac-0.1.2.zip" length="22784940" type="application/octet-stream" sparkle:edSignature="0LtBWKaEsavkrsTYdMtG4+iiT5Hv+TAeKH42ZpbWCKf7HL9vRHjURGtlhTqT1rMSLVcAHtaTKn6yv0AwQWWIDQ=="/>
         </item>
     </channel>
 </rss>
