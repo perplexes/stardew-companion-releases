@@ -3,6 +3,17 @@
     <channel>
         <title>CompanionMac</title>
         <item>
+            <title>0.1.3</title>
+            <pubDate>Wed, 22 Jul 2026 23:49:39 -0700</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac-0.1.3.zip" length="22819674" type="application/octet-stream" sparkle:edSignature="R37GasujUPU/hlGi9szZ2L8br25jkZRctyJSCfUIux97JMtIn35ayVBNkixdpdYKgurxONOF0n4I4HpMB0iqAw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac4-3.delta" sparkle:deltaFrom="3" length="150958" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="diaHq+i55e2Z7KRxk3nfpDHCVtALTHDAwGuYrcY222eNbKjcEiCgGxGfeH/mUPIw8HXLpH9zlsWsoIICxLvcDQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.2</title>
             <pubDate>Thu, 16 Jul 2026 21:49:37 -0700</pubDate>
             <sparkle:version>3</sparkle:version>
