@@ -3,18 +3,27 @@
     <channel>
         <title>CompanionMac</title>
         <item>
+            <title>0.1.7</title>
+            <pubDate>Sun, 26 Jul 2026 15:15:42 -0700</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.1.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac-0.1.7.zip" length="22936748" type="application/octet-stream" sparkle:edSignature="XYxjnvaDtutY1J9CAJBQ0IiZeABz9BKfg1b55hGSs5WPyIw7qZKiRNsgAyx77TLb0rVyWkRGRfo1+4CTZqKUDQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac8-7.delta" sparkle:deltaFrom="7" length="90442" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="z/wfEdnVOUMO3fhtuuRKpyN7WcTcXy9DsqvZd+OJ976cHvrab2fnaGdioYZeqh5H5vg1FCgU/JbazSsl5y5yDw=="/>
+                <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac8-6.delta" sparkle:deltaFrom="6" length="165046" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="GVua6mTdg3yyYr1hnAdNyI7gLfrNaZS6yDU1NrHGoNUm184iRwR7zzoHrAey+gsUuSA+GlMMHENp9NjmIT9vBA=="/>
+                <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac8-5.delta" sparkle:deltaFrom="5" length="236714" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="2CNmuZewdL84v7Z1xG+OniWGrsZpoIazxWHw4hnUc/TzJssVIqbQ/jOLbeRYDF5JO0AL9nS2/l71c0pvbM3JAg=="/>
+                <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac8-4.delta" sparkle:deltaFrom="4" length="247166" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="D3BUFFhtEfI4Rh5afWqdN8Rf9TUjQOHzCg4lQVtokX8qkAcsIndOaJqFx5FHMoHaThitju5gMjnGTFT3B4QoBg=="/>
+                <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac8-3.delta" sparkle:deltaFrom="3" length="278790" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="D5CXHFUYaM90YoVdyi+W63wJnJQENNVAgMZvBxxdpKOdFnxgECbqRt7Ythl14cRmKircL+0nK1kS/HMRyE+LAg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.6</title>
             <pubDate>Sun, 26 Jul 2026 14:47:26 -0700</pubDate>
             <sparkle:version>7</sparkle:version>
             <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac-0.1.6.zip" length="22934541" type="application/octet-stream" sparkle:edSignature="CinAW7b7ZU6QuqdXivrkFkk5BRsaapLp0B6e8ok+KDdb6lCOEpEPHrzF1oYgU872TWzLPxln9eCbSC7z2q+nCA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac7-6.delta" sparkle:deltaFrom="6" length="155330" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="aY38tx0oZYWqF2Xc0HLeM5kZC4KQ8QR5pv36FWoS8CWm0hcKqvN/Lj8DL0GbzJqsoC++MoR3Z6bJ3V4+p8bRBw=="/>
-                <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac7-5.delta" sparkle:deltaFrom="5" length="227798" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gZPnvadr8Xpd7U4MPL3wvKyeBw0Kfv9s9z75dHJYk9q4JDE1qtdQbrxxlO9iTGdbC2qtBBmRYuQbCjAnIjycDQ=="/>
-                <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac7-4.delta" sparkle:deltaFrom="4" length="238914" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="NtELmo5X5tZlOgUOFTsd9bmg5eySN1OrJBR8R9TkapTEorp3fUiHTFGSGaAkCkG67TR5lP9Ld1jP6X/MZuJUBg=="/>
-                <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac7-3.delta" sparkle:deltaFrom="3" length="271226" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="OcFTlBeKIqVQDNwkF6V1YpOYesXjdm1WBAP8GUfWfSYOB7tlC67uV2fQWVcHnxCQeoBwxHwr46yDpm8AMaN+Cw=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>0.1.5</title>
@@ -23,14 +32,6 @@
             <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac-0.1.5.zip" length="22907369" type="application/octet-stream" sparkle:edSignature="HVhpG5rgnZqUyVDssPF95XGflMpjBlIsUBPu27DXVngSIDm6+m8F059m722XYOkumu5ALQrzyLfgOl38WB8vBg=="/>
-        </item>
-        <item>
-            <title>0.1.4</title>
-            <pubDate>Sat, 25 Jul 2026 09:49:19 -0700</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac-0.1.4.zip" length="22821234" type="application/octet-stream" sparkle:edSignature="wv5eqYJFLLDwXqS7pz7vbM7VZ/go2UK6zNt7N5tW17/OtoO2RgJxJXA0KBDCBKESGWWxfPs3ZLhovpMOG6QyAA=="/>
         </item>
     </channel>
 </rss>
