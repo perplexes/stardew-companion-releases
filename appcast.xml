@@ -3,6 +3,26 @@
     <channel>
         <title>CompanionMac</title>
         <item>
+            <title>0.1.19</title>
+            <pubDate>Thu, 30 Jul 2026 16:14:57 -0700</pubDate>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>0.1.19</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h1>0.1.19</h1>
+<h2>The save upload actually works this time</h2>
+<p>0.1.18 announced that the Mac app uploads a copy of your save, and then shipped without the credential it needed to do it. The app was built before the credential was put in place, so it went out without one and quietly uploaded nothing.</p>
+<p>Everything 0.1.18 said still holds, and now it's true. A compressed copy of your save goes to a private bucket only Colin can read, copies are kept rather than overwritten, and nothing else about the app changes.</p>
+]]></description>
+            <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac-0.1.19.zip" length="23332319" type="application/octet-stream" sparkle:edSignature="s4v2KfM8RBiKq7QP3tElL3lFqwioCraFKLJXqRq66RmpPdOWURkcc6nV6Hs5sAJC5mBeZeaEU9803dHHS5y0BQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac20-19.delta" sparkle:deltaFrom="19" length="13314" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="HRsRoxCnY2km9A1Mqkx1Gc8+hUw8N2WfhlQKjwRyfV8M2L2hixbwjPVkBGIHILzgwUs0wTbx5xxkYsoXN+DnAA=="/>
+                <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac20-18.delta" sparkle:deltaFrom="18" length="92222" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="yN/a62pBVDJz0GwHR0UOha3AMhUqMH2wUtVsFCrhMmCd46VqeDw5dSLbvTcfMIUqwIn8nojwBflDW5Y4uPgfAQ=="/>
+                <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac20-17.delta" sparkle:deltaFrom="17" length="246498" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="qxh0dMjJ7LHObWrgvC8kr65dZO182S+kNnxUTiXbp1ZCEyWns60vvxVvrRgVTe9uh0JW0QzI1XxBLyPvlpPiDg=="/>
+                <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac20-16.delta" sparkle:deltaFrom="16" length="363714" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ww8QMHyavSWt63UaGEB/udJJF5b6HqN2yMMSn/m2w+cPsFT+D8EUwfZpM3gz7pQ4EiYwqu34gJKC36iXzGdAAw=="/>
+                <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac20-15.delta" sparkle:deltaFrom="15" length="377738" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ORpG+H+9koGdbvjKOuQz/ufaEAonKlJSqRJgtlK/058iOIPK8laC4puCXS/QatsGrnlVNj18oq9syed+9ChSAQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.18</title>
             <pubDate>Thu, 30 Jul 2026 16:10:42 -0700</pubDate>
             <sparkle:version>19</sparkle:version>
@@ -18,13 +38,6 @@
 <p>Nothing changed in the iPhone app for this one, so there's no new build for it.</p>
 ]]></description>
             <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac-0.1.18.zip" length="23331857" type="application/octet-stream" sparkle:edSignature="Iz2q2S3wOYYB4w8Us72NLT0LWV39exIOO+WoKAyeRrYsKgm46Xv8lD8yIyZm1KSw17ECnhXpMUwuGvBjoaR+Ag=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac19-18.delta" sparkle:deltaFrom="18" length="93554" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="bvJskpEe7l/jwSUAMJfEmdJL1P3dFwjUwphhxajF0niRJPGl6Lkn6KmmlYIgvS8+hWGf/NQiMl5tuvx2L689AA=="/>
-                <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac19-17.delta" sparkle:deltaFrom="17" length="248370" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="fX5hqUTi+c3g4JAE6X9K0R2s6mKEM/cg668yTgN5cEamRZvawulsvTPMp/2iLEoqVHzpo0u3VrhdpyU+yfrTDQ=="/>
-                <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac19-16.delta" sparkle:deltaFrom="16" length="364058" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="OmucAzVK3vYWjNHeKLBek7y6VnINf3WjZjjzMjKdVcNOWtyKGU2fvAGPbCo2X0a48oRt7azGy6vjr94cnQSZAw=="/>
-                <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac19-15.delta" sparkle:deltaFrom="15" length="378222" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="pkvBpfdAiriBSG4mzcHNaJXXyjf6zPgwANh1eS6Ujl/2Af74OMqA86SLNEmWuOabSqdYsVLucyeq1k7/+rS3DA=="/>
-                <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac19-14.delta" sparkle:deltaFrom="14" length="435862" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="2ZYE1y4bcAW83i8qPGhHbNd/YZWFBZY09o8jN0bqCD8E+ksgSc7dmA96Yb/8qsyF2OOlMXeVXHKuoPbJQbbECA=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>0.1.17</title>
@@ -47,31 +60,6 @@
 <p>Ten of the town's special orders were listed with one objective when the game asks for two, and one of them showed "Ship 100" without saying of what. Every order's objectives now come from the game's own data, so they say what they want and how far along you are. Willy's three fish had also been paired with each other's counts.</p>
 ]]></description>
             <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac-0.1.17.zip" length="23331212" type="application/octet-stream" sparkle:edSignature="TM1IpaONZXQGRf09TdWL0bC/pwsZWfVau6WqEdna+4OkM1f8DIoY8QQLoUEKx0DlaCmQO1f7Bj1Qg1cLiyxcAg=="/>
-        </item>
-        <item>
-            <title>0.1.16</title>
-            <pubDate>Wed, 29 Jul 2026 20:04:06 -0700</pubDate>
-            <sparkle:version>17</sparkle:version>
-            <sparkle:shortVersionString>0.1.16</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h1>0.1.16</h1>
-<h2>Your machines are on the morning round</h2>
-<p>The app knew what was ripe in your fields and nothing about the several hundred machines standing on your farm. A cellar of casks, a shed of kegs and presses, tappers on your trees: all invisible.</p>
-<p>They're on the Today tab now, folded into the same walking round as your crops, nearest to home first. One stop per place, so the shed tells you about its cheese and its mayonnaise and its crystalarium together rather than scattering them through a list.</p>
-<p>Machines answer with what they'll actually give you and when:</p>
-<ul>
-<li><strong>10x Dried Common Mushrooms</strong> — ready</li>
-<li><strong>29x Jade</strong> — from 10:30pm</li>
-<li><strong>10x Aged Crimsonfish Roe</strong> — tomorrow</li>
-<li><strong>188x Starfruit Wine</strong> — silver in 8 days</li>
-</ul>
-<p>A crystalarium showing a *time* rather than a day is the difference between "check back later" and "check after dinner." Casks are the other way around: they don't count minutes at all, they age by the day toward silver, gold and iridium, so that's what they tell you.</p>
-<h2>Tea bushes, and everything else in a pot</h2>
-<p>Tea grows in garden pots, and the app never looked inside one. Nor did it see the crops planted in them. Both show up now, in whichever room they're standing in, and a tea bush that's ready says it's in leaf.</p>
-<h2>What the game says a bush is</h2>
-<p>Along the way, the app had learned bushes wrong. The game numbers them small, medium, large, green tea, walnut. Reading "large" as "tea" would have reported every wild bush in Pelican Town and Cindersap Forest as a tea bush. It now reads them the way the game defines them.</p>
-]]></description>
-            <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac-0.1.16.zip" length="23246114" type="application/octet-stream" sparkle:edSignature="nqvyRJOs3vLjYzDiK5L0NgKGHE0ijr9WCUiG2jzdQ0NQfCFiWu7YMDyQwdmdPPVEvLaY62M9V9u2xK0dmjOWCA=="/>
         </item>
     </channel>
 </rss>
