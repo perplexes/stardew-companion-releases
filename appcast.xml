@@ -3,6 +3,30 @@
     <channel>
         <title>CompanionMac</title>
         <item>
+            <title>0.1.18</title>
+            <pubDate>Thu, 30 Jul 2026 16:10:42 -0700</pubDate>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>0.1.18</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h1>0.1.18</h1>
+<h2>Your save file now travels with your farm data</h2>
+<p>When the Mac app reads your save, it also uploads a compressed copy of that save file to a private bucket that only Colin can read. Nothing else changes: the app works exactly as it did.</p>
+<p>This is worth saying plainly, because it's your whole game in there. Every relationship, every choice, every day.</p>
+<p>The reason is that four separate bugs this month came down to the app reading one thing from your save and quietly getting a different one, and none of them could be diagnosed from a screenshot. The wrong crop counts were the visible one. Having the actual file is the difference between guessing at what the app saw and knowing.</p>
+<p>Copies are kept rather than overwritten, because a problem noticed on Thursday is usually about Tuesday's save.</p>
+<h2>Mac only</h2>
+<p>Nothing changed in the iPhone app for this one, so there's no new build for it.</p>
+]]></description>
+            <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac-0.1.18.zip" length="23331857" type="application/octet-stream" sparkle:edSignature="Iz2q2S3wOYYB4w8Us72NLT0LWV39exIOO+WoKAyeRrYsKgm46Xv8lD8yIyZm1KSw17ECnhXpMUwuGvBjoaR+Ag=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac19-18.delta" sparkle:deltaFrom="18" length="93554" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="bvJskpEe7l/jwSUAMJfEmdJL1P3dFwjUwphhxajF0niRJPGl6Lkn6KmmlYIgvS8+hWGf/NQiMl5tuvx2L689AA=="/>
+                <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac19-17.delta" sparkle:deltaFrom="17" length="248370" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="fX5hqUTi+c3g4JAE6X9K0R2s6mKEM/cg668yTgN5cEamRZvawulsvTPMp/2iLEoqVHzpo0u3VrhdpyU+yfrTDQ=="/>
+                <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac19-16.delta" sparkle:deltaFrom="16" length="364058" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="OmucAzVK3vYWjNHeKLBek7y6VnINf3WjZjjzMjKdVcNOWtyKGU2fvAGPbCo2X0a48oRt7azGy6vjr94cnQSZAw=="/>
+                <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac19-15.delta" sparkle:deltaFrom="15" length="378222" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="pkvBpfdAiriBSG4mzcHNaJXXyjf6zPgwANh1eS6Ujl/2Af74OMqA86SLNEmWuOabSqdYsVLucyeq1k7/+rS3DA=="/>
+                <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac19-14.delta" sparkle:deltaFrom="14" length="435862" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="2ZYE1y4bcAW83i8qPGhHbNd/YZWFBZY09o8jN0bqCD8E+ksgSc7dmA96Yb/8qsyF2OOlMXeVXHKuoPbJQbbECA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.17</title>
             <pubDate>Thu, 30 Jul 2026 08:36:18 -0700</pubDate>
             <sparkle:version>18</sparkle:version>
@@ -23,13 +47,6 @@
 <p>Ten of the town's special orders were listed with one objective when the game asks for two, and one of them showed "Ship 100" without saying of what. Every order's objectives now come from the game's own data, so they say what they want and how far along you are. Willy's three fish had also been paired with each other's counts.</p>
 ]]></description>
             <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac-0.1.17.zip" length="23331212" type="application/octet-stream" sparkle:edSignature="TM1IpaONZXQGRf09TdWL0bC/pwsZWfVau6WqEdna+4OkM1f8DIoY8QQLoUEKx0DlaCmQO1f7Bj1Qg1cLiyxcAg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac18-17.delta" sparkle:deltaFrom="17" length="248290" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Mrlad3JgOdE1p5SJfjKIe7gm/XmvvH7FHsIKbFY/LrFRrkqnR5P9p0uqSjjFnH7DjdeEaw747OPnBnWUgq1PBw=="/>
-                <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac18-16.delta" sparkle:deltaFrom="16" length="364454" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="fGFHfneCeLI3iqSCiRrB87oiMCon8T8WV86swhtXSIoaEfKchB5jY4KzDLmgAtU87cuC4VI5LVYF2bG4Ya2GBg=="/>
-                <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac18-15.delta" sparkle:deltaFrom="15" length="376798" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="l5Vxgh+rkdKbpCW54DAymwMLt2WQVEXwVy2vrk3Hblvw50fqjsqh8Ihu3AvKJBFAdMaxHwezYX9kyEuwdqjlDg=="/>
-                <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac18-14.delta" sparkle:deltaFrom="14" length="435814" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="K9VszrZkT0kon5z1TxdASBbsItY/mkAH44efsR687ZhiiCUPmT5wCXfVIYcm3VSzad/cdOt3QNsmkYS4IZq8DQ=="/>
-                <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac18-13.delta" sparkle:deltaFrom="13" length="455018" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="jAh4lOtwYeWVVclQRy+p73b9o3awG39CLRJzi7Ip4AooYU7ssPHwmt8nqE9eFRZcaWpA9LwL63UBecbpEBSEBg=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>0.1.16</title>
@@ -55,41 +72,6 @@
 <p>Along the way, the app had learned bushes wrong. The game numbers them small, medium, large, green tea, walnut. Reading "large" as "tea" would have reported every wild bush in Pelican Town and Cindersap Forest as a tea bush. It now reads them the way the game defines them.</p>
 ]]></description>
             <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac-0.1.16.zip" length="23246114" type="application/octet-stream" sparkle:edSignature="nqvyRJOs3vLjYzDiK5L0NgKGHE0ijr9WCUiG2jzdQ0NQfCFiWu7YMDyQwdmdPPVEvLaY62M9V9u2xK0dmjOWCA=="/>
-        </item>
-        <item>
-            <title>0.1.15</title>
-            <pubDate>Wed, 29 Jul 2026 18:10:54 -0700</pubDate>
-            <sparkle:version>16</sparkle:version>
-            <sparkle:shortVersionString>0.1.15</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h1>0.1.15</h1>
-<h2>Your crop data now comes from your own game</h2>
-<p>The crop table behind planting advice was vendored from a third-party data repo, and it was wrong in ways you could see on screen:</p>
-<ul>
-<li><strong>Tomato was marked as a trellis crop.</strong> It isn't. Grapes, hops and green</li>
-</ul>
-<p>beans are.</p>
-<ul>
-<li><strong>Taro Root and Pineapple carried a season called "ginger island"</strong>, which is</li>
-</ul>
-<p>not a season the game has. Every seasonal check against it silently failed to match, so those crops never turned up where they should have.</p>
-<ul>
-<li><strong>All four 1.6 crops were missing</strong> — Carrot, Summer Squash, Broccoli and</li>
-</ul>
-<p>Powdermelon.</p>
-<ul>
-<li>Tea Leaves was listed as a crop. The game models tea as a bush.</li>
-</ul>
-<p>It now comes out of your own installed copy of the game, 47 crops to 50.</p>
-<h2>Crops that regrow know it again</h2>
-<p>1.6 stopped writing <code>regrowAfterHarvest</code> into the save and moved it into the game's data files, so every crop on a 1.6 farm had forgotten whether it regrows. It reads from the game's own crop data now, and the 337 crops on a 1.5 save all agree with it.</p>
-<h2>The Night Market was in two places at once</h2>
-<p>Distances are measured by walking the game's real map connections. The Night Market was being read as two separate places, each holding half its doors: one had Elliott's cabin, Willy's shop and Town, the other had the Mermaid Boat and the Submarine. It's one place with all five now.</p>
-<p>Three more locations were split the same way and are now whole: the Community Center ruins, the Desert Festival, and the big trailer.</p>
-<h2>Under the hood</h2>
-<p>The tool that reads the game's content files learned five formats it couldn't open before. That's what made the crop fix possible, and it's what the traveling cart's stock and the seed maker's yield were waiting on.</p>
-]]></description>
-            <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac-0.1.15.zip" length="23134209" type="application/octet-stream" sparkle:edSignature="FnO6SEduiK3+S9UBVFHlv8prhahM8BevYpTZxV7x+ivYGR+STEa4ZszykqjW/cbwcxWPTA0579CGupBZHadsAQ=="/>
         </item>
     </channel>
 </rss>
