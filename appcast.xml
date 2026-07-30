@@ -3,6 +3,46 @@
     <channel>
         <title>CompanionMac</title>
         <item>
+            <title>0.1.17</title>
+            <pubDate>Thu, 30 Jul 2026 08:36:18 -0700</pubDate>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>0.1.17</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h1>0.1.17</h1>
+<h2>Quests have their names back</h2>
+<p>Every quest on the Tracking tab was called "Quest". Your save records the</p>
+<p>title twice, once in a cache that is usually empty and once beside it with the</p>
+<p>real answer, and the app was reading the empty one. It reads the answer now.</p>
+<p>This was never about a particular version of the game. Saves going back years</p>
+<p>are shaped the same way, so anything you had open was affected.</p>
+<h2>Quests tell you what comes next</h2>
+<p>A gathering quest has two parts. Getting the wood is one. Handing it over is</p>
+<p>the other, and your save only ever records the part you're on, so "0/35 Wood</p>
+<p>collected" was the whole story the app could tell.</p>
+<p>It now shows both steps, what's done, and who to go back to:</p>
+<ul>
+<li><strong>Gathering: Wood</strong> — 0/35 Wood collected, then Talk to Robin</li>
+</ul>
+<p>Quests that finish the moment you're done get one step, because that's how many</p>
+<p>they have. A delivery quest already says "Bring Sebastian Bream" and nothing in</p>
+<p>the game counts the fishing, so it isn't given a stage it doesn't have.</p>
+<h2>Special orders say what they want</h2>
+<p>Ten of the town's special orders were listed with one objective when the game</p>
+<p>asks for two, and one of them showed "Ship 100" without saying of what. Every</p>
+<p>order's objectives now come from the game's own data, so they say what they</p>
+<p>want and how far along you are. Willy's three fish had also been paired with</p>
+<p>each other's counts.</p>
+]]></description>
+            <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac-0.1.17.zip" length="23331212" type="application/octet-stream" sparkle:edSignature="TM1IpaONZXQGRf09TdWL0bC/pwsZWfVau6WqEdna+4OkM1f8DIoY8QQLoUEKx0DlaCmQO1f7Bj1Qg1cLiyxcAg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac18-17.delta" sparkle:deltaFrom="17" length="248290" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Mrlad3JgOdE1p5SJfjKIe7gm/XmvvH7FHsIKbFY/LrFRrkqnR5P9p0uqSjjFnH7DjdeEaw747OPnBnWUgq1PBw=="/>
+                <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac18-16.delta" sparkle:deltaFrom="16" length="364454" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="fGFHfneCeLI3iqSCiRrB87oiMCon8T8WV86swhtXSIoaEfKchB5jY4KzDLmgAtU87cuC4VI5LVYF2bG4Ya2GBg=="/>
+                <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac18-15.delta" sparkle:deltaFrom="15" length="376798" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="l5Vxgh+rkdKbpCW54DAymwMLt2WQVEXwVy2vrk3Hblvw50fqjsqh8Ihu3AvKJBFAdMaxHwezYX9kyEuwdqjlDg=="/>
+                <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac18-14.delta" sparkle:deltaFrom="14" length="435814" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="K9VszrZkT0kon5z1TxdASBbsItY/mkAH44efsR687ZhiiCUPmT5wCXfVIYcm3VSzad/cdOt3QNsmkYS4IZq8DQ=="/>
+                <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac18-13.delta" sparkle:deltaFrom="13" length="455018" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="jAh4lOtwYeWVVclQRy+p73b9o3awG39CLRJzi7Ip4AooYU7ssPHwmt8nqE9eFRZcaWpA9LwL63UBecbpEBSEBg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.16</title>
             <pubDate>Wed, 29 Jul 2026 20:04:06 -0700</pubDate>
             <sparkle:version>17</sparkle:version>
@@ -39,13 +79,6 @@
 <p>them the way the game defines them.</p>
 ]]></description>
             <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac-0.1.16.zip" length="23246114" type="application/octet-stream" sparkle:edSignature="nqvyRJOs3vLjYzDiK5L0NgKGHE0ijr9WCUiG2jzdQ0NQfCFiWu7YMDyQwdmdPPVEvLaY62M9V9u2xK0dmjOWCA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac17-16.delta" sparkle:deltaFrom="16" length="267026" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gmAp/YzSxMxY9Cl9A6b7ygLsnL+1IVOjAg+BjpNcmW1vbiKjXZH+d17d6fPllQYqXslrW777bBu3M9ohs4/JAQ=="/>
-                <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac17-15.delta" sparkle:deltaFrom="15" length="282490" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="4l41+hDeNcrQtG+s5oP1N7RzC1T0bVTrx4trWYY/GEvhZiqaLKAX5f0QHhwrzism8NWFMOwodG0uv2PCkvxfDw=="/>
-                <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac17-14.delta" sparkle:deltaFrom="14" length="348518" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9K5+hRJU7Qz8fBUmlXaIfZZGUDeyCYY09XrryrJPmrX/TloTyW4l0TG5LOtjGvDuaIn+oDQQazwhW7xwuUEBDw=="/>
-                <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac17-13.delta" sparkle:deltaFrom="13" length="370910" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="G/nVjHmfhmWUkXNG6HOcn8oudBSxavcPVrUmdoXYO6vVVN/cy+Vg7mqKksQn4jfgna5j0SFJdE7CgHE6c/U2Cg=="/>
-                <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac17-12.delta" sparkle:deltaFrom="12" length="377018" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="PvHvnL9WMWP2+9HzT0+RedRZg5SlQ4VaWmQptO/EU3BnvGWoepkGNr0kUWh+qKTEyVblYZUAQ7I7jW8mcxgxBA=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>0.1.15</title>
@@ -92,14 +125,6 @@
 <p>cart's stock and the seed maker's yield were waiting on.</p>
 ]]></description>
             <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac-0.1.15.zip" length="23134209" type="application/octet-stream" sparkle:edSignature="FnO6SEduiK3+S9UBVFHlv8prhahM8BevYpTZxV7x+ivYGR+STEa4ZszykqjW/cbwcxWPTA0579CGupBZHadsAQ=="/>
-        </item>
-        <item>
-            <title>0.1.14</title>
-            <pubDate>Wed, 29 Jul 2026 16:18:52 -0700</pubDate>
-            <sparkle:version>15</sparkle:version>
-            <sparkle:shortVersionString>0.1.14</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac-0.1.14.zip" length="23127297" type="application/octet-stream" sparkle:edSignature="BXIw4QZzrbJ9t7wFl+BnOjOmGrPm3RwXzQxKIXx2mdYSgbvvVU77elJFYACv9S/Iz//aQbxdxqXEBHchpNSMCQ=="/>
         </item>
     </channel>
 </rss>
