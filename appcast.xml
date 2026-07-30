@@ -10,28 +10,17 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<h1>0.1.17</h1>
 <h2>Quests have their names back</h2>
-<p>Every quest on the Tracking tab was called "Quest". Your save records the</p>
-<p>title twice, once in a cache that is usually empty and once beside it with the</p>
-<p>real answer, and the app was reading the empty one. It reads the answer now.</p>
-<p>This was never about a particular version of the game. Saves going back years</p>
-<p>are shaped the same way, so anything you had open was affected.</p>
+<p>Every quest on the Tracking tab was called "Quest". Your save records the title twice, once in a cache that is usually empty and once beside it with the real answer, and the app was reading the empty one. It reads the answer now.</p>
+<p>This was never about a particular version of the game. Saves going back years are shaped the same way, so anything you had open was affected.</p>
 <h2>Quests tell you what comes next</h2>
-<p>A gathering quest has two parts. Getting the wood is one. Handing it over is</p>
-<p>the other, and your save only ever records the part you're on, so "0/35 Wood</p>
-<p>collected" was the whole story the app could tell.</p>
+<p>A gathering quest has two parts. Getting the wood is one. Handing it over is the other, and your save only ever records the part you're on, so "0/35 Wood collected" was the whole story the app could tell.</p>
 <p>It now shows both steps, what's done, and who to go back to:</p>
 <ul>
 <li><strong>Gathering: Wood</strong> — 0/35 Wood collected, then Talk to Robin</li>
 </ul>
-<p>Quests that finish the moment you're done get one step, because that's how many</p>
-<p>they have. A delivery quest already says "Bring Sebastian Bream" and nothing in</p>
-<p>the game counts the fishing, so it isn't given a stage it doesn't have.</p>
+<p>Quests that finish the moment you're done get one step, because that's how many they have. A delivery quest already says "Bring Sebastian Bream" and nothing in the game counts the fishing, so it isn't given a stage it doesn't have.</p>
 <h2>Special orders say what they want</h2>
-<p>Ten of the town's special orders were listed with one objective when the game</p>
-<p>asks for two, and one of them showed "Ship 100" without saying of what. Every</p>
-<p>order's objectives now come from the game's own data, so they say what they</p>
-<p>want and how far along you are. Willy's three fish had also been paired with</p>
-<p>each other's counts.</p>
+<p>Ten of the town's special orders were listed with one objective when the game asks for two, and one of them showed "Ship 100" without saying of what. Every order's objectives now come from the game's own data, so they say what they want and how far along you are. Willy's three fish had also been paired with each other's counts.</p>
 ]]></description>
             <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac-0.1.17.zip" length="23331212" type="application/octet-stream" sparkle:edSignature="TM1IpaONZXQGRf09TdWL0bC/pwsZWfVau6WqEdna+4OkM1f8DIoY8QQLoUEKx0DlaCmQO1f7Bj1Qg1cLiyxcAg=="/>
             <sparkle:deltas>
@@ -50,13 +39,8 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<h1>0.1.16</h1>
 <h2>Your machines are on the morning round</h2>
-<p>The app knew what was ripe in your fields and nothing about the several hundred</p>
-<p>machines standing on your farm. A cellar of casks, a shed of kegs and presses,</p>
-<p>tappers on your trees: all invisible.</p>
-<p>They're on the Today tab now, folded into the same walking round as your crops,</p>
-<p>nearest to home first. One stop per place, so the shed tells you about its</p>
-<p>cheese and its mayonnaise and its crystalarium together rather than scattering</p>
-<p>them through a list.</p>
+<p>The app knew what was ripe in your fields and nothing about the several hundred machines standing on your farm. A cellar of casks, a shed of kegs and presses, tappers on your trees: all invisible.</p>
+<p>They're on the Today tab now, folded into the same walking round as your crops, nearest to home first. One stop per place, so the shed tells you about its cheese and its mayonnaise and its crystalarium together rather than scattering them through a list.</p>
 <p>Machines answer with what they'll actually give you and when:</p>
 <ul>
 <li><strong>10x Dried Common Mushrooms</strong> — ready</li>
@@ -64,19 +48,11 @@
 <li><strong>10x Aged Crimsonfish Roe</strong> — tomorrow</li>
 <li><strong>188x Starfruit Wine</strong> — silver in 8 days</li>
 </ul>
-<p>A crystalarium showing a *time* rather than a day is the difference between</p>
-<p>"check back later" and "check after dinner." Casks are the other way around:</p>
-<p>they don't count minutes at all, they age by the day toward silver, gold and</p>
-<p>iridium, so that's what they tell you.</p>
+<p>A crystalarium showing a *time* rather than a day is the difference between "check back later" and "check after dinner." Casks are the other way around: they don't count minutes at all, they age by the day toward silver, gold and iridium, so that's what they tell you.</p>
 <h2>Tea bushes, and everything else in a pot</h2>
-<p>Tea grows in garden pots, and the app never looked inside one. Nor did it see</p>
-<p>the crops planted in them. Both show up now, in whichever room they're standing</p>
-<p>in, and a tea bush that's ready says it's in leaf.</p>
+<p>Tea grows in garden pots, and the app never looked inside one. Nor did it see the crops planted in them. Both show up now, in whichever room they're standing in, and a tea bush that's ready says it's in leaf.</p>
 <h2>What the game says a bush is</h2>
-<p>Along the way, the app had learned bushes wrong. The game numbers them small,</p>
-<p>medium, large, green tea, walnut. Reading "large" as "tea" would have reported</p>
-<p>every wild bush in Pelican Town and Cindersap Forest as a tea bush. It now reads</p>
-<p>them the way the game defines them.</p>
+<p>Along the way, the app had learned bushes wrong. The game numbers them small, medium, large, green tea, walnut. Reading "large" as "tea" would have reported every wild bush in Pelican Town and Cindersap Forest as a tea bush. It now reads them the way the game defines them.</p>
 ]]></description>
             <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac-0.1.16.zip" length="23246114" type="application/octet-stream" sparkle:edSignature="nqvyRJOs3vLjYzDiK5L0NgKGHE0ijr9WCUiG2jzdQ0NQfCFiWu7YMDyQwdmdPPVEvLaY62M9V9u2xK0dmjOWCA=="/>
         </item>
@@ -88,8 +64,7 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<h1>0.1.15</h1>
 <h2>Your crop data now comes from your own game</h2>
-<p>The crop table behind planting advice was vendored from a third-party data</p>
-<p>repo, and it was wrong in ways you could see on screen:</p>
+<p>The crop table behind planting advice was vendored from a third-party data repo, and it was wrong in ways you could see on screen:</p>
 <ul>
 <li><strong>Tomato was marked as a trellis crop.</strong> It isn't. Grapes, hops and green</li>
 </ul>
@@ -97,8 +72,7 @@
 <ul>
 <li><strong>Taro Root and Pineapple carried a season called "ginger island"</strong>, which is</li>
 </ul>
-<p>not a season the game has. Every seasonal check against it silently failed to</p>
-<p>match, so those crops never turned up where they should have.</p>
+<p>not a season the game has. Every seasonal check against it silently failed to match, so those crops never turned up where they should have.</p>
 <ul>
 <li><strong>All four 1.6 crops were missing</strong> — Carrot, Summer Squash, Broccoli and</li>
 </ul>
@@ -108,21 +82,12 @@
 </ul>
 <p>It now comes out of your own installed copy of the game, 47 crops to 50.</p>
 <h2>Crops that regrow know it again</h2>
-<p>1.6 stopped writing <code>regrowAfterHarvest</code> into the save and moved it into the</p>
-<p>game's data files, so every crop on a 1.6 farm had forgotten whether it</p>
-<p>regrows. It reads from the game's own crop data now, and the 337 crops on a 1.5</p>
-<p>save all agree with it.</p>
+<p>1.6 stopped writing <code>regrowAfterHarvest</code> into the save and moved it into the game's data files, so every crop on a 1.6 farm had forgotten whether it regrows. It reads from the game's own crop data now, and the 337 crops on a 1.5 save all agree with it.</p>
 <h2>The Night Market was in two places at once</h2>
-<p>Distances are measured by walking the game's real map connections. The Night</p>
-<p>Market was being read as two separate places, each holding half its doors: one</p>
-<p>had Elliott's cabin, Willy's shop and Town, the other had the Mermaid Boat and</p>
-<p>the Submarine. It's one place with all five now.</p>
-<p>Three more locations were split the same way and are now whole: the Community</p>
-<p>Center ruins, the Desert Festival, and the big trailer.</p>
+<p>Distances are measured by walking the game's real map connections. The Night Market was being read as two separate places, each holding half its doors: one had Elliott's cabin, Willy's shop and Town, the other had the Mermaid Boat and the Submarine. It's one place with all five now.</p>
+<p>Three more locations were split the same way and are now whole: the Community Center ruins, the Desert Festival, and the big trailer.</p>
 <h2>Under the hood</h2>
-<p>The tool that reads the game's content files learned five formats it couldn't</p>
-<p>open before. That's what made the crop fix possible, and it's what the traveling</p>
-<p>cart's stock and the seed maker's yield were waiting on.</p>
+<p>The tool that reads the game's content files learned five formats it couldn't open before. That's what made the crop fix possible, and it's what the traveling cart's stock and the seed maker's yield were waiting on.</p>
 ]]></description>
             <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac-0.1.15.zip" length="23134209" type="application/octet-stream" sparkle:edSignature="FnO6SEduiK3+S9UBVFHlv8prhahM8BevYpTZxV7x+ivYGR+STEa4ZszykqjW/cbwcxWPTA0579CGupBZHadsAQ=="/>
         </item>
