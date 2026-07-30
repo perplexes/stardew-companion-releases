@@ -8,7 +8,44 @@
             <sparkle:version>16</sparkle:version>
             <sparkle:shortVersionString>0.1.15</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/perplexes/stardew-companion-releases/main/CompanionMac-0.1.15.html</sparkle:releaseNotesLink>
+            <description><![CDATA[<h1>0.1.15</h1>
+<h2>Your crop data now comes from your own game</h2>
+<p>The crop table behind planting advice was vendored from a third-party data</p>
+<p>repo, and it was wrong in ways you could see on screen:</p>
+<ul>
+<li><strong>Tomato was marked as a trellis crop.</strong> It isn't. Grapes, hops and green</li>
+</ul>
+<p>beans are.</p>
+<ul>
+<li><strong>Taro Root and Pineapple carried a season called "ginger island"</strong>, which is</li>
+</ul>
+<p>not a season the game has. Every seasonal check against it silently failed to</p>
+<p>match, so those crops never turned up where they should have.</p>
+<ul>
+<li><strong>All four 1.6 crops were missing</strong> — Carrot, Summer Squash, Broccoli and</li>
+</ul>
+<p>Powdermelon.</p>
+<ul>
+<li>Tea Leaves was listed as a crop. The game models tea as a bush.</li>
+</ul>
+<p>It now comes out of your own installed copy of the game, 47 crops to 50.</p>
+<h2>Crops that regrow know it again</h2>
+<p>1.6 stopped writing <code>regrowAfterHarvest</code> into the save and moved it into the</p>
+<p>game's data files, so every crop on a 1.6 farm had forgotten whether it</p>
+<p>regrows. It reads from the game's own crop data now, and the 337 crops on a 1.5</p>
+<p>save all agree with it.</p>
+<h2>The Night Market was in two places at once</h2>
+<p>Distances are measured by walking the game's real map connections. The Night</p>
+<p>Market was being read as two separate places, each holding half its doors: one</p>
+<p>had Elliott's cabin, Willy's shop and Town, the other had the Mermaid Boat and</p>
+<p>the Submarine. It's one place with all five now.</p>
+<p>Three more locations were split the same way and are now whole: the Community</p>
+<p>Center ruins, the Desert Festival, and the big trailer.</p>
+<h2>Under the hood</h2>
+<p>The tool that reads the game's content files learned five formats it couldn't</p>
+<p>open before. That's what made the crop fix possible, and it's what the traveling</p>
+<p>cart's stock and the seed maker's yield were waiting on.</p>
+]]></description>
             <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac-0.1.15.zip" length="23134209" type="application/octet-stream" sparkle:edSignature="FnO6SEduiK3+S9UBVFHlv8prhahM8BevYpTZxV7x+ivYGR+STEa4ZszykqjW/cbwcxWPTA0579CGupBZHadsAQ=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac16-15.delta" sparkle:deltaFrom="15" length="123686" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="szTuuAN4XTlLsPiyafCkJvmT742uztVFdl15O6ivwWgYcloNO5FGjaLidNowOnudDMto35WEJ6h9uyyOER+lCQ=="/>
