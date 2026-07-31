@@ -3,6 +3,34 @@
     <channel>
         <title>CompanionMac</title>
         <item>
+            <title>0.1.20</title>
+            <pubDate>Fri, 31 Jul 2026 06:45:52 -0700</pubDate>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>0.1.20</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h1>0.1.20</h1>
+<h2>Ginger Island has its own weather, and now the app knows</h2>
+<p>The island and the desert roll their own weather, separately from the valley. The app had been showing you one forecast for everywhere.</p>
+<p>On a real winter save this meant a screen full of Ginger Island crops sitting under a big SNOW, while the island was actually being rained on. The rain waters those crops for you; snow does not. That was worth knowing and the app was hiding it.</p>
+<p>Now the day card shows the island's weather beneath the valley's whenever they differ, and each stop on your morning round says what the sky is doing there:</p>
+<ul>
+<li><strong>Ginger Island West</strong> — Rain here, watering these for you</li>
+</ul>
+<h2>The fish list stops asking the valley about the island</h2>
+<p>Which fish are biting depends on the weather and the season where you're fishing. Island fish were being filtered by valley weather, and by valley season, and both were wrong.</p>
+<p>The island and the desert are permanently summer as far as fish are concerned, so island fish bite year round. Fish that only live somewhere else are now labelled with where, rather than quietly appearing in a list about your valley.</p>
+<p>The desert never rains, which the app also now knows.</p>
+]]></description>
+            <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac-0.1.20.zip" length="23377873" type="application/octet-stream" sparkle:edSignature="Y4DV8SxTBtL7O9hUexbR57H3teM4W4T0MDQuBpQe+OL6W7/SQacTHuH1q+TdH78GzKhX92XXjNIbRfGr0nNbBQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac21-20.delta" sparkle:deltaFrom="20" length="233798" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="kKzid/wCVIo1pCJHo5j5bDJzkWr+oS2wWQ+fXYLbz5Hv0oh8Fst6Qfl8TTvIt9r3EwtFgixmet+quZVAf43xBw=="/>
+                <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac21-19.delta" sparkle:deltaFrom="19" length="234030" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/MmJrQBdBFR3zSvCZRjK5ySlm8HXwqiIJi5ju1GGOzMyUiaw5xR4EIRcjQws5hxZqHDJzbim9i07SQVkOHmwDw=="/>
+                <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac21-18.delta" sparkle:deltaFrom="18" length="234538" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="XivhhqIpBNvLFUzEq+AWRcssiVs5w7AlgpD4YFdwyaT5kGtzKpS1xb5/D4cqJfrpbfQRKQ5y63a4RA/BgGueDw=="/>
+                <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac21-17.delta" sparkle:deltaFrom="17" length="328146" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="PW3YVE36CxCdRxj6BS7qpj0CX0X87t+OfSCy2fVdVmbCqE5eCJ9NPOsA6jviYkgtNmjgRBtIdQufYPfQU02oBA=="/>
+                <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac21-16.delta" sparkle:deltaFrom="16" length="420286" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="l3xkpfdzkqN1qsmvj5oyrf/670hPTZKb9UUAjCVnHkT/+3pWCgcKK2qyJC1f4m6jgkai21Tr7isKKmqHquNJBw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.19</title>
             <pubDate>Thu, 30 Jul 2026 16:14:57 -0700</pubDate>
             <sparkle:version>20</sparkle:version>
@@ -14,13 +42,6 @@
 <p>Everything 0.1.18 said still holds, and now it's true. A compressed copy of your save goes to a private bucket only Colin can read, copies are kept rather than overwritten, and nothing else about the app changes.</p>
 ]]></description>
             <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac-0.1.19.zip" length="23332319" type="application/octet-stream" sparkle:edSignature="s4v2KfM8RBiKq7QP3tElL3lFqwioCraFKLJXqRq66RmpPdOWURkcc6nV6Hs5sAJC5mBeZeaEU9803dHHS5y0BQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac20-19.delta" sparkle:deltaFrom="19" length="13314" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="HRsRoxCnY2km9A1Mqkx1Gc8+hUw8N2WfhlQKjwRyfV8M2L2hixbwjPVkBGIHILzgwUs0wTbx5xxkYsoXN+DnAA=="/>
-                <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac20-18.delta" sparkle:deltaFrom="18" length="92222" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="yN/a62pBVDJz0GwHR0UOha3AMhUqMH2wUtVsFCrhMmCd46VqeDw5dSLbvTcfMIUqwIn8nojwBflDW5Y4uPgfAQ=="/>
-                <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac20-17.delta" sparkle:deltaFrom="17" length="246498" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="qxh0dMjJ7LHObWrgvC8kr65dZO182S+kNnxUTiXbp1ZCEyWns60vvxVvrRgVTe9uh0JW0QzI1XxBLyPvlpPiDg=="/>
-                <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac20-16.delta" sparkle:deltaFrom="16" length="363714" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ww8QMHyavSWt63UaGEB/udJJF5b6HqN2yMMSn/m2w+cPsFT+D8EUwfZpM3gz7pQ4EiYwqu34gJKC36iXzGdAAw=="/>
-                <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac20-15.delta" sparkle:deltaFrom="15" length="377738" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ORpG+H+9koGdbvjKOuQz/ufaEAonKlJSqRJgtlK/058iOIPK8laC4puCXS/QatsGrnlVNj18oq9syed+9ChSAQ=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>0.1.18</title>
@@ -38,28 +59,6 @@
 <p>Nothing changed in the iPhone app for this one, so there's no new build for it.</p>
 ]]></description>
             <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac-0.1.18.zip" length="23331857" type="application/octet-stream" sparkle:edSignature="Iz2q2S3wOYYB4w8Us72NLT0LWV39exIOO+WoKAyeRrYsKgm46Xv8lD8yIyZm1KSw17ECnhXpMUwuGvBjoaR+Ag=="/>
-        </item>
-        <item>
-            <title>0.1.17</title>
-            <pubDate>Thu, 30 Jul 2026 08:36:18 -0700</pubDate>
-            <sparkle:version>18</sparkle:version>
-            <sparkle:shortVersionString>0.1.17</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h1>0.1.17</h1>
-<h2>Quests have their names back</h2>
-<p>Every quest on the Tracking tab was called "Quest". Your save records the title twice, once in a cache that is usually empty and once beside it with the real answer, and the app was reading the empty one. It reads the answer now.</p>
-<p>This was never about a particular version of the game. Saves going back years are shaped the same way, so anything you had open was affected.</p>
-<h2>Quests tell you what comes next</h2>
-<p>A gathering quest has two parts. Getting the wood is one. Handing it over is the other, and your save only ever records the part you're on, so "0/35 Wood collected" was the whole story the app could tell.</p>
-<p>It now shows both steps, what's done, and who to go back to:</p>
-<ul>
-<li><strong>Gathering: Wood</strong> — 0/35 Wood collected, then Talk to Robin</li>
-</ul>
-<p>Quests that finish the moment you're done get one step, because that's how many they have. A delivery quest already says "Bring Sebastian Bream" and nothing in the game counts the fishing, so it isn't given a stage it doesn't have.</p>
-<h2>Special orders say what they want</h2>
-<p>Ten of the town's special orders were listed with one objective when the game asks for two, and one of them showed "Ship 100" without saying of what. Every order's objectives now come from the game's own data, so they say what they want and how far along you are. Willy's three fish had also been paired with each other's counts.</p>
-]]></description>
-            <enclosure url="https://github.com/perplexes/stardew-companion-releases/releases/download/updates/CompanionMac-0.1.17.zip" length="23331212" type="application/octet-stream" sparkle:edSignature="TM1IpaONZXQGRf09TdWL0bC/pwsZWfVau6WqEdna+4OkM1f8DIoY8QQLoUEKx0DlaCmQO1f7Bj1Qg1cLiyxcAg=="/>
         </item>
     </channel>
 </rss>
